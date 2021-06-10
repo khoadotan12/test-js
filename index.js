@@ -1,0 +1,1 @@
+alert('Inject js success');
