@@ -1,1 +1,1 @@
-alert('Inject js success - v1');
+alert('Inject js success - v2');
