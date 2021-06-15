@@ -1,1 +1,1 @@
-alert('Inject js success - Update 15/06/2021');
+alert('[15/06/2021] Inject js success');
