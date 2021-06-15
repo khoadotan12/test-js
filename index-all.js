@@ -1,1 +1,1 @@
-alert('[All domains] Inject js all success - Update 15/06/2021');
+alert('[All domains] Inject js all success - v1');
